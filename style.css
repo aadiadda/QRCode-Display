@@ -32,7 +32,7 @@ body {
     width: 250px;
     height: 250px;
     justify-content: center;
-    background-image: url(./images/image-qr-code.png);
+    background-image: url(./image-qr-code.png);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
